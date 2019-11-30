@@ -1,7 +1,16 @@
 """
-Title: 但丁研究中的数字人文 Digital Humanities in Dante Studies
+Title: 但丁研究中的数字人文 Digital Humanities in Dante Studies  
+
+--- important note ---
+This is a demo used on the VII National Conference on Renaissance Studies, for Chinese Colleagues. The source-texts analyzed 
+are not uploaded, and the structure of this software is tailored around demonstration, meaning 
+that the last part of the code is for demonstrative purpose, serving kind of like a power point. 
+For researchers interested in this project, please contact me directly for detail. 
+---- end of note ---
+
+
 Date: 2019-11-17
-Author：成 沫 Silvano Mo Cheng   同济大学人文学院、欧洲思想文化研究院
+Author：成 沫 Silvano Mo Cheng   同济大学人文学院、欧洲思想文化研究院 Tongji University
 Contact: silvano.cheng@gmail.com
 
 
@@ -342,6 +351,13 @@ def compare_siciliano():
     print ("")
 
 
+
+--- important note ---
+This is a demo used on the VII National Conference on Renaissance Studies, for Chinese Colleagues. The source-texts analyzed 
+are not uploaded, and the structure of this software is tailored around demonstration, meaning 
+that the last/lower part of the code is for demonstrative purpose, serving kind of like a power point. 
+For researchers interested in this project, please contact me directly for detail. 
+---- end of note ---
 
 
 """
