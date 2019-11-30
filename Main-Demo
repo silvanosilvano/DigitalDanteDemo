@@ -351,13 +351,14 @@ def compare_siciliano():
     print ("")
 
 
-
+"""
 --- important note ---
 This is a demo used on the VII National Conference on Renaissance Studies, for Chinese Colleagues. The source-texts analyzed 
 are not uploaded, and the structure of this software is tailored around demonstration, meaning 
 that the last/lower part of the code is for demonstrative purpose, serving kind of like a power point. 
 For researchers interested in this project, please contact me directly for detail. 
 ---- end of note ---
+"""
 
 
 """
